@@ -20,7 +20,7 @@ Future poetry chapbook :)
 |   13   |        Death       |      Yes     |       No      |                   |
 |   14   |     Temperance     |      Yes     |       No      |                   |
 |   15   |      The Devil     |      Yes     |       No      |                   |
-|   16   |      The Tower     |      Yes     |       No      |                   |
+|   16   |      The Tower     |      Yes     |      Yes      |         No        |
 |   17   |      The Star      |      Yes     |       No      |                   |
 |   18   |      The Moon      |      Yes     |       No      |                   |
 |   19   |       The Sun      |      Yes     |       No      |                   |
