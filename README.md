@@ -13,7 +13,7 @@ Future poetry chapbook :)
 |    6   |     The Lovers     |      Yes     |       No      |                   |
 |    7   |     The Chariot    |      Yes     |       No      |                   |
 |    8   |      Strength      |      Yes     |       No      |                   |
-|    9   |     The Hermit     |      Yes     |       No      |                   |
+|    9   |     The Hermit     |      Yes     |      Yes      |         No        |
 |   10   |  Wheel of Fortune  |      Yes     |       No      |                   |
 |   11   |       Justice      |      Yes     |      Yes      |         No        |
 |   12   |   The Hanged One   |      Yes     |       No      |                   |
